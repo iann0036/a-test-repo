@@ -3,11 +3,11 @@
   "changes": [
     {
       "start": {
-        "line": 2,
-        "character": 6
+        "line": 12,
+        "character": 0
       },
       "end": {
-        "line": 14,
+        "line": 24,
         "character": 6
       },
       "type": "USER_EDIT",
@@ -90,6 +90,370 @@
       },
       "type": "USER_EDIT",
       "creationTimestamp": 1751351186728,
+      "author": "Ian Mckay"
+    },
+    {
+      "start": {
+        "line": 2,
+        "character": 6
+      },
+      "end": {
+        "line": 3,
+        "character": 0
+      },
+      "type": "USER_EDIT",
+      "creationTimestamp": 1751351192495,
+      "author": "Ian Mckay"
+    },
+    {
+      "start": {
+        "line": 3,
+        "character": 0
+      },
+      "end": {
+        "line": 4,
+        "character": 0
+      },
+      "type": "USER_EDIT",
+      "creationTimestamp": 1751351192637,
+      "author": "Ian Mckay"
+    },
+    {
+      "start": {
+        "line": 12,
+        "character": 0
+      },
+      "end": {
+        "line": 12,
+        "character": 6
+      },
+      "type": "USER_EDIT",
+      "creationTimestamp": 1751351197266,
+      "author": "Ian Mckay"
+    },
+    {
+      "start": {
+        "line": 4,
+        "character": 0
+      },
+      "end": {
+        "line": 4,
+        "character": 6
+      },
+      "type": "PASTE",
+      "creationTimestamp": 1751351197526,
+      "author": "Ian Mckay"
+    },
+    {
+      "start": {
+        "line": 4,
+        "character": 6
+      },
+      "end": {
+        "line": 5,
+        "character": 0
+      },
+      "type": "USER_EDIT",
+      "creationTimestamp": 1751351198183,
+      "author": "Ian Mckay"
+    },
+    {
+      "start": {
+        "line": 5,
+        "character": 0
+      },
+      "end": {
+        "line": 6,
+        "character": 0
+      },
+      "type": "USER_EDIT",
+      "creationTimestamp": 1751351198319,
+      "author": "Ian Mckay"
+    },
+    {
+      "start": {
+        "line": 12,
+        "character": 0
+      },
+      "end": {
+        "line": 12,
+        "character": 6
+      },
+      "type": "USER_EDIT",
+      "creationTimestamp": 1751351203004,
+      "author": "Ian Mckay"
+    },
+    {
+      "start": {
+        "line": 6,
+        "character": 0
+      },
+      "end": {
+        "line": 6,
+        "character": 6
+      },
+      "type": "UNDO_REDO",
+      "creationTimestamp": 1751351203671,
+      "author": "Ian Mckay"
+    },
+    {
+      "start": {
+        "line": 12,
+        "character": 0
+      },
+      "end": {
+        "line": 13,
+        "character": 0
+      },
+      "type": "USER_EDIT",
+      "creationTimestamp": 1751351207931,
+      "author": "Ian Mckay"
+    },
+    {
+      "start": {
+        "line": 12,
+        "character": 0
+      },
+      "end": {
+        "line": 12,
+        "character": 1
+      },
+      "type": "USER_EDIT",
+      "creationTimestamp": 1751351210314,
+      "author": "Ian Mckay"
+    },
+    {
+      "start": {
+        "line": 12,
+        "character": 0
+      },
+      "end": {
+        "line": 12,
+        "character": 1
+      },
+      "type": "USER_EDIT",
+      "creationTimestamp": 1751351210474,
+      "author": "Ian Mckay"
+    },
+    {
+      "start": {
+        "line": 12,
+        "character": 0
+      },
+      "end": {
+        "line": 12,
+        "character": 1
+      },
+      "type": "USER_EDIT",
+      "creationTimestamp": 1751351210620,
+      "author": "Ian Mckay"
+    },
+    {
+      "start": {
+        "line": 12,
+        "character": 0
+      },
+      "end": {
+        "line": 12,
+        "character": 1
+      },
+      "type": "USER_EDIT",
+      "creationTimestamp": 1751351210780,
+      "author": "Ian Mckay"
+    },
+    {
+      "start": {
+        "line": 12,
+        "character": 0
+      },
+      "end": {
+        "line": 12,
+        "character": 1
+      },
+      "type": "USER_EDIT",
+      "creationTimestamp": 1751351210918,
+      "author": "Ian Mckay"
+    },
+    {
+      "start": {
+        "line": 9,
+        "character": 0
+      },
+      "end": {
+        "line": 10,
+        "character": 0
+      },
+      "type": "USER_EDIT",
+      "creationTimestamp": 1751351213244,
+      "author": "Ian Mckay"
+    },
+    {
+      "start": {
+        "line": 10,
+        "character": 0
+      },
+      "end": {
+        "line": 10,
+        "character": 6
+      },
+      "type": "AI_GENERATED",
+      "creationTimestamp": 1751351216190,
+      "author": "Ian Mckay"
+    },
+    {
+      "start": {
+        "line": 9,
+        "character": 0
+      },
+      "end": {
+        "line": 9,
+        "character": 15
+      },
+      "type": "USER_EDIT",
+      "creationTimestamp": 1751351218409,
+      "author": "Ian Mckay"
+    },
+    {
+      "start": {
+        "line": 7,
+        "character": 0
+      },
+      "end": {
+        "line": 8,
+        "character": 0
+      },
+      "type": "USER_EDIT",
+      "creationTimestamp": 1751351218566,
+      "author": "Ian Mckay"
+    },
+    {
+      "start": {
+        "line": 8,
+        "character": 6
+      },
+      "end": {
+        "line": 9,
+        "character": 0
+      },
+      "type": "USER_EDIT",
+      "creationTimestamp": 1751351219650,
+      "author": "Ian Mckay"
+    },
+    {
+      "start": {
+        "line": 8,
+        "character": 6
+      },
+      "end": {
+        "line": 8,
+        "character": 12
+      },
+      "type": "USER_EDIT",
+      "creationTimestamp": 1751351225009,
+      "author": "Ian Mckay"
+    },
+    {
+      "start": {
+        "line": 8,
+        "character": 0
+      },
+      "end": {
+        "line": 8,
+        "character": 5
+      },
+      "type": "UNDO_REDO",
+      "creationTimestamp": 1751351225837,
+      "author": "Ian Mckay"
+    },
+    {
+      "start": {
+        "line": 8,
+        "character": 6
+      },
+      "end": {
+        "line": 8,
+        "character": 7
+      },
+      "type": "USER_EDIT",
+      "creationTimestamp": 1751351235446,
+      "author": "Ian Mckay"
+    },
+    {
+      "start": {
+        "line": 8,
+        "character": 5
+      },
+      "end": {
+        "line": 8,
+        "character": 6
+      },
+      "type": "USER_EDIT",
+      "creationTimestamp": 1751351235493,
+      "author": "Ian Mckay"
+    },
+    {
+      "start": {
+        "line": 10,
+        "character": 6
+      },
+      "end": {
+        "line": 11,
+        "character": 0
+      },
+      "type": "USER_EDIT",
+      "creationTimestamp": 1751351237234,
+      "author": "Ian Mckay"
+    },
+    {
+      "start": {
+        "line": 11,
+        "character": 0
+      },
+      "end": {
+        "line": 12,
+        "character": 0
+      },
+      "type": "USER_EDIT",
+      "creationTimestamp": 1751351237927,
+      "author": "Ian Mckay"
+    },
+    {
+      "start": {
+        "line": 12,
+        "character": 0
+      },
+      "end": {
+        "line": 12,
+        "character": 1
+      },
+      "type": "USER_EDIT",
+      "creationTimestamp": 1751351239280,
+      "author": "Ian Mckay"
+    },
+    {
+      "start": {
+        "line": 12,
+        "character": 0
+      },
+      "end": {
+        "line": 12,
+        "character": 1
+      },
+      "type": "USER_EDIT",
+      "creationTimestamp": 1751351239429,
+      "author": "Ian Mckay"
+    },
+    {
+      "start": {
+        "line": 12,
+        "character": 0
+      },
+      "end": {
+        "line": 12,
+        "character": 1
+      },
+      "type": "USER_EDIT",
+      "creationTimestamp": 1751351239569,
       "author": "Ian Mckay"
     }
   ]
