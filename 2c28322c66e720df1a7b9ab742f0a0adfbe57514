@@ -3,23 +3,6 @@
   "changes": [
     {
       "start": {
-        "line": 4,
-        "character": 0
-      },
-      "end": {
-        "line": 4,
-        "character": 6
-      },
-      "type": "USER_EDIT",
-      "creationTimestamp": 1751453263508,
-      "author": "Ian Mckay",
-      "pasteUrl": "",
-      "pasteTitle": "",
-      "aiName": "",
-      "aiModel": ""
-    },
-    {
-      "start": {
         "line": 6,
         "character": 0
       },
@@ -177,23 +160,6 @@
         "character": 0
       },
       "end": {
-        "line": 4,
-        "character": 6
-      },
-      "type": "USER_EDIT",
-      "creationTimestamp": 1751453270102,
-      "author": "Ian Mckay",
-      "pasteUrl": "",
-      "pasteTitle": "",
-      "aiName": "",
-      "aiModel": ""
-    },
-    {
-      "start": {
-        "line": 4,
-        "character": 6
-      },
-      "end": {
         "line": 5,
         "character": 0
       },
@@ -216,6 +182,23 @@
       },
       "type": "USER_EDIT",
       "creationTimestamp": 1751453274135,
+      "author": "Ian Mckay",
+      "pasteUrl": "",
+      "pasteTitle": "",
+      "aiName": "",
+      "aiModel": ""
+    },
+    {
+      "start": {
+        "line": 4,
+        "character": 0
+      },
+      "end": {
+        "line": 4,
+        "character": 6
+      },
+      "type": "USER_EDIT",
+      "creationTimestamp": 1751453277431,
       "author": "Ian Mckay",
       "pasteUrl": "",
       "pasteTitle": "",
