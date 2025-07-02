@@ -1,4 +1,4 @@
 {
     "tabd.storage": "experimental",
-    "tabd.showBlameByDefault": true
+    "tabd.showBlameByDefault": false
 }
