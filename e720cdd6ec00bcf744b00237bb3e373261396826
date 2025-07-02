@@ -3,15 +3,32 @@
   "changes": [
     {
       "start": {
-        "line": 9,
-        "character": 0
+        "line": 8,
+        "character": 6
       },
       "end": {
-        "line": 25,
+        "line": 24,
         "character": 0
       },
       "type": "USER_EDIT",
       "creationTimestamp": 1751459555542,
+      "author": "Ian Mckay",
+      "pasteUrl": "",
+      "pasteTitle": "",
+      "aiName": "",
+      "aiModel": ""
+    },
+    {
+      "start": {
+        "line": 8,
+        "character": 6
+      },
+      "end": {
+        "line": 9,
+        "character": 0
+      },
+      "type": "USER_EDIT",
+      "creationTimestamp": 1751459557497,
       "author": "Ian Mckay",
       "pasteUrl": "",
       "pasteTitle": "",
