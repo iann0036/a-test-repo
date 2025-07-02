@@ -1,0 +1,430 @@
+{
+  "version": 1,
+  "changes": [
+    {
+      "start": {
+        "line": 0,
+        "character": 0
+      },
+      "end": {
+        "line": 1,
+        "character": 23
+      },
+      "type": "USER_EDIT",
+      "creationTimestamp": 1751463494372,
+      "author": "Ian Mckay",
+      "pasteUrl": "",
+      "pasteTitle": "",
+      "aiName": "",
+      "aiModel": ""
+    },
+    {
+      "start": {
+        "line": 1,
+        "character": 25
+      },
+      "end": {
+        "line": 1,
+        "character": 26
+      },
+      "type": "USER_EDIT",
+      "creationTimestamp": 1751463502681,
+      "author": "Ian Mckay",
+      "pasteUrl": "",
+      "pasteTitle": "",
+      "aiName": "",
+      "aiModel": ""
+    },
+    {
+      "start": {
+        "line": 4,
+        "character": 1
+      },
+      "end": {
+        "line": 6,
+        "character": 0
+      },
+      "type": "USER_EDIT",
+      "creationTimestamp": 1751463505861,
+      "author": "Ian Mckay",
+      "pasteUrl": "",
+      "pasteTitle": "",
+      "aiName": "",
+      "aiModel": ""
+    },
+    {
+      "start": {
+        "line": 9,
+        "character": 1
+      },
+      "end": {
+        "line": 11,
+        "character": 0
+      },
+      "type": "USER_EDIT",
+      "creationTimestamp": 1751463520129,
+      "author": "Ian Mckay",
+      "pasteUrl": "",
+      "pasteTitle": "",
+      "aiName": "",
+      "aiModel": ""
+    },
+    {
+      "start": {
+        "line": 19,
+        "character": 1
+      },
+      "end": {
+        "line": 21,
+        "character": 21
+      },
+      "type": "USER_EDIT",
+      "creationTimestamp": 1751463533669,
+      "author": "Ian Mckay",
+      "pasteUrl": "",
+      "pasteTitle": "",
+      "aiName": "",
+      "aiModel": ""
+    },
+    {
+      "start": {
+        "line": 21,
+        "character": 23
+      },
+      "end": {
+        "line": 21,
+        "character": 24
+      },
+      "type": "USER_EDIT",
+      "creationTimestamp": 1751463547359,
+      "author": "Ian Mckay",
+      "pasteUrl": "",
+      "pasteTitle": "",
+      "aiName": "",
+      "aiModel": ""
+    },
+    {
+      "start": {
+        "line": 21,
+        "character": 25
+      },
+      "end": {
+        "line": 22,
+        "character": 5
+      },
+      "type": "USER_EDIT",
+      "creationTimestamp": 1751463548915,
+      "author": "Ian Mckay",
+      "pasteUrl": "",
+      "pasteTitle": "",
+      "aiName": "",
+      "aiModel": ""
+    },
+    {
+      "start": {
+        "line": 24,
+        "character": 45
+      },
+      "end": {
+        "line": 25,
+        "character": 0
+      },
+      "type": "USER_EDIT",
+      "creationTimestamp": 1751463548915,
+      "author": "Ian Mckay",
+      "pasteUrl": "",
+      "pasteTitle": "",
+      "aiName": "",
+      "aiModel": ""
+    },
+    {
+      "start": {
+        "line": 25,
+        "character": 1
+      },
+      "end": {
+        "line": 25,
+        "character": 2
+      },
+      "type": "USER_EDIT",
+      "creationTimestamp": 1751463496893,
+      "author": "Ian Mckay",
+      "pasteUrl": "",
+      "pasteTitle": "",
+      "aiName": "",
+      "aiModel": ""
+    },
+    {
+      "start": {
+        "line": 25,
+        "character": 1
+      },
+      "end": {
+        "line": 25,
+        "character": 2
+      },
+      "type": "USER_EDIT",
+      "creationTimestamp": 1751463497049,
+      "author": "Ian Mckay",
+      "pasteUrl": "",
+      "pasteTitle": "",
+      "aiName": "",
+      "aiModel": ""
+    },
+    {
+      "start": {
+        "line": 25,
+        "character": 1
+      },
+      "end": {
+        "line": 25,
+        "character": 2
+      },
+      "type": "USER_EDIT",
+      "creationTimestamp": 1751463497209,
+      "author": "Ian Mckay",
+      "pasteUrl": "",
+      "pasteTitle": "",
+      "aiName": "",
+      "aiModel": ""
+    },
+    {
+      "start": {
+        "line": 25,
+        "character": 1
+      },
+      "end": {
+        "line": 25,
+        "character": 2
+      },
+      "type": "USER_EDIT",
+      "creationTimestamp": 1751463497370,
+      "author": "Ian Mckay",
+      "pasteUrl": "",
+      "pasteTitle": "",
+      "aiName": "",
+      "aiModel": ""
+    },
+    {
+      "start": {
+        "line": 25,
+        "character": 1
+      },
+      "end": {
+        "line": 25,
+        "character": 2
+      },
+      "type": "USER_EDIT",
+      "creationTimestamp": 1751463498901,
+      "author": "Ian Mckay",
+      "pasteUrl": "",
+      "pasteTitle": "",
+      "aiName": "",
+      "aiModel": ""
+    },
+    {
+      "start": {
+        "line": 25,
+        "character": 1
+      },
+      "end": {
+        "line": 28,
+        "character": 1
+      },
+      "type": "USER_EDIT",
+      "creationTimestamp": 1751463514705,
+      "author": "Ian Mckay",
+      "pasteUrl": "",
+      "pasteTitle": "",
+      "aiName": "",
+      "aiModel": ""
+    },
+    {
+      "start": {
+        "line": 1,
+        "character": 26
+      },
+      "end": {
+        "line": 4,
+        "character": 1
+      },
+      "type": "AI_GENERATED",
+      "creationTimestamp": 1751463504589,
+      "author": "Ian Mckay",
+      "pasteUrl": "",
+      "pasteTitle": "",
+      "aiName": "GitHub Copilot",
+      "aiModel": "gpt-4o-copilot"
+    },
+    {
+      "start": {
+        "line": 1,
+        "character": 23
+      },
+      "end": {
+        "line": 1,
+        "character": 24
+      },
+      "type": "AI_GENERATED",
+      "creationTimestamp": 1751463501184,
+      "author": "Ian Mckay",
+      "pasteUrl": "",
+      "pasteTitle": "",
+      "aiName": "",
+      "aiModel": ""
+    },
+    {
+      "start": {
+        "line": 6,
+        "character": 0
+      },
+      "end": {
+        "line": 9,
+        "character": 1
+      },
+      "type": "UNDO_REDO",
+      "creationTimestamp": 1751463517852,
+      "author": "Ian Mckay",
+      "pasteUrl": "",
+      "pasteTitle": "",
+      "aiName": "",
+      "aiModel": ""
+    },
+    {
+      "start": {
+        "line": 11,
+        "character": 0
+      },
+      "end": {
+        "line": 19,
+        "character": 1
+      },
+      "type": "PASTE",
+      "creationTimestamp": 1751463532424,
+      "author": "Ian Mckay",
+      "pasteUrl": "https://stackoverflow.com/questions/1349404/generate-a-string-of-random-characters",
+      "pasteTitle": "javascript - Generate a string of random characters - Stack Overflow",
+      "aiName": "",
+      "aiModel": ""
+    },
+    {
+      "start": {
+        "line": 21,
+        "character": 21
+      },
+      "end": {
+        "line": 21,
+        "character": 23
+      },
+      "type": "AI_GENERATED",
+      "creationTimestamp": 1751463544892,
+      "author": "Ian Mckay",
+      "pasteUrl": "",
+      "pasteTitle": "",
+      "aiName": "",
+      "aiModel": ""
+    },
+    {
+      "start": {
+        "line": 21,
+        "character": 24
+      },
+      "end": {
+        "line": 21,
+        "character": 25
+      },
+      "type": "AI_GENERATED",
+      "creationTimestamp": 1751463547671,
+      "author": "Ian Mckay",
+      "pasteUrl": "",
+      "pasteTitle": "",
+      "aiName": "",
+      "aiModel": ""
+    },
+    {
+      "start": {
+        "line": 25,
+        "character": 0
+      },
+      "end": {
+        "line": 25,
+        "character": 1
+      },
+      "type": "AI_GENERATED",
+      "creationTimestamp": 1751463547671,
+      "author": "Ian Mckay",
+      "pasteUrl": "",
+      "pasteTitle": "",
+      "aiName": "",
+      "aiModel": ""
+    },
+    {
+      "start": {
+        "line": 22,
+        "character": 7
+      },
+      "end": {
+        "line": 22,
+        "character": 20
+      },
+      "type": "AI_GENERATED",
+      "creationTimestamp": 1751463551913,
+      "author": "Ian Mckay",
+      "pasteUrl": "",
+      "pasteTitle": "",
+      "aiName": "GitHub Copilot",
+      "aiModel": "gpt-4o-copilot"
+    },
+    {
+      "start": {
+        "line": 22,
+        "character": 5
+      },
+      "end": {
+        "line": 22,
+        "character": 7
+      },
+      "type": "AI_GENERATED",
+      "creationTimestamp": 1751463551530,
+      "author": "Ian Mckay",
+      "pasteUrl": "",
+      "pasteTitle": "",
+      "aiName": "",
+      "aiModel": ""
+    },
+    {
+      "start": {
+        "line": 23,
+        "character": 86
+      },
+      "end": {
+        "line": 24,
+        "character": 45
+      },
+      "type": "AI_GENERATED",
+      "creationTimestamp": 1751463552934,
+      "author": "Ian Mckay",
+      "pasteUrl": "",
+      "pasteTitle": "",
+      "aiName": "GitHub Copilot",
+      "aiModel": "gpt-4o-copilot"
+    },
+    {
+      "start": {
+        "line": 22,
+        "character": 20
+      },
+      "end": {
+        "line": 23,
+        "character": 86
+      },
+      "type": "AI_GENERATED",
+      "creationTimestamp": 1751463552433,
+      "author": "Ian Mckay",
+      "pasteUrl": "",
+      "pasteTitle": "",
+      "aiName": "GitHub Copilot",
+      "aiModel": "gpt-4o-copilot"
+    }
+  ]
+}
