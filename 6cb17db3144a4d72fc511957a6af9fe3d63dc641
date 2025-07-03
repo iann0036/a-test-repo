@@ -21,10 +21,27 @@
     {
       "start": {
         "line": 1,
-        "character": 0
+        "character": 24
       },
       "end": {
-        "line": 2,
+        "line": 3,
+        "character": 0
+      },
+      "type": "USER_EDIT",
+      "creationTimestamp": 1751541117721,
+      "author": "Ian Mckay",
+      "pasteUrl": "",
+      "pasteTitle": "",
+      "aiName": "",
+      "aiModel": ""
+    },
+    {
+      "start": {
+        "line": 3,
+        "character": 24
+      },
+      "end": {
+        "line": 4,
         "character": 0
       },
       "type": "USER_EDIT",
@@ -37,11 +54,11 @@
     },
     {
       "start": {
-        "line": 1,
-        "character": 0
+        "line": 3,
+        "character": 24
       },
       "end": {
-        "line": 2,
+        "line": 4,
         "character": 0
       },
       "type": "USER_EDIT",
@@ -51,6 +68,40 @@
       "pasteTitle": "",
       "aiName": "",
       "aiModel": ""
+    },
+    {
+      "start": {
+        "line": 1,
+        "character": 0
+      },
+      "end": {
+        "line": 1,
+        "character": 24
+      },
+      "type": "IDE_PASTE",
+      "creationTimestamp": 1751541116467,
+      "author": "Ian Mckay",
+      "pasteUrl": "https://github.com/github/stack-graphs",
+      "pasteTitle": "languages/tree-sitter-stack-graphs-javascript/docs/package-structure/example.js (on branch fix-ian-test-branch)",
+      "aiName": "",
+      "aiModel": ""
+    },
+    {
+      "start": {
+        "line": 3,
+        "character": 0
+      },
+      "end": {
+        "line": 3,
+        "character": 24
+      },
+      "type": "AI_GENERATED",
+      "creationTimestamp": 1751541124436,
+      "author": "Ian Mckay",
+      "pasteUrl": "",
+      "pasteTitle": "",
+      "aiName": "GitHub Copilot",
+      "aiModel": "gpt-4o-copilot"
     }
   ]
 }
