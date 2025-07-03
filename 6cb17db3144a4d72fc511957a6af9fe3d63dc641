@@ -3,15 +3,49 @@
   "changes": [
     {
       "start": {
-        "line": 0,
+        "line": 2,
+        "character": 0
+      },
+      "end": {
+        "line": 3,
+        "character": 0
+      },
+      "type": "UNDO_REDO",
+      "creationTimestamp": 1751540717766,
+      "author": "Ian Mckay",
+      "pasteUrl": "",
+      "pasteTitle": "",
+      "aiName": "",
+      "aiModel": ""
+    },
+    {
+      "start": {
+        "line": 2,
+        "character": 0
+      },
+      "end": {
+        "line": 3,
+        "character": 0
+      },
+      "type": "UNDO_REDO",
+      "creationTimestamp": 1751540717972,
+      "author": "Ian Mckay",
+      "pasteUrl": "",
+      "pasteTitle": "",
+      "aiName": "",
+      "aiModel": ""
+    },
+    {
+      "start": {
+        "line": 2,
         "character": 0
       },
       "end": {
         "line": 2,
-        "character": 1
+        "character": 24
       },
-      "type": "USER_EDIT",
-      "creationTimestamp": 1751540624886,
+      "type": "UNDO_REDO",
+      "creationTimestamp": 1751540718245,
       "author": "Ian Mckay",
       "pasteUrl": "",
       "pasteTitle": "",
